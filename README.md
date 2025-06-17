@@ -1,5 +1,5 @@
-# Usepopcorn: React.js, CSS, and 
-This application uses the Ombd API to create a movie viewing application
+# Description
+This application allows users to browse movies, add or remove them from a watch list, and rate them.
 
 ## Tools
 - React.js
@@ -9,6 +9,10 @@ This application uses the Ombd API to create a movie viewing application
 ## Libraries
 - React.js
 
+## Concepts
+- states and effects
+- Hooks: useState, useEffect, useRef
+  
 ## APIS
 - Ombd API
 
@@ -25,7 +29,6 @@ Submitted by: Samuel Ntadom
   </div>
   
 ## Notes
-
 All credits to <a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course 2024: React, Next.js, Redux & More
 </a>. 
 
