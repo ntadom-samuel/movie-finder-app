@@ -16,8 +16,6 @@ This application allows users to browse movies, add or remove them from a watch 
 ## APIS
 - Ombd API
 
-Submitted by: Samuel Ntadom
-
 ## Features
 - [x] Dynamic
 
