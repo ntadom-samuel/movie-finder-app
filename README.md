@@ -1,5 +1,16 @@
-# Usepopcorn: React.js, CSS, and Ombd API
+# Usepopcorn: React.js, CSS, and 
 This application uses the Ombd API to create a movie viewing application
+
+## Tools
+- React.js
+- Vanilla JavaScript
+- CSS3
+  
+## Libraries
+- React.js
+
+## APIS
+- Ombd API
 
 Submitted by: Samuel Ntadom
 
